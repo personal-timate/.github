@@ -8,9 +8,4 @@
 
 <br/>
 
-### How to Start
-| Name                       | Link                                                         |
-| -------------------------- | ------------------------------------------------------------ |
-| DockerHub // Core Service  | https://hub.docker.com/repository/docker/nicholasdietz/timate_core-service   |
-| DockerHub // Management UI | https://hub.docker.com/repository/docker/nicholasdietz/timate_management-ui |
-
+Docker Images: [Core Service](https://hub.docker.com/repository/docker/nicholasdietz/timate_core-service), [Management UI](https://hub.docker.com/repository/docker/nicholasdietz/timate_management-ui)
